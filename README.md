@@ -1,6 +1,8 @@
 # slantis-wallpapers
 Get here slantis latest and greatest wallpapers! ✨
 
+You can also get our generative art designs [here](https://github.com/slantis/generativestickers/tree/main/freebies) 🚀
+
 # 🔗 LINKS
 [![web](https://img.shields.io/badge/-%2Fslantis-ff7700)](http://slantis.com/)
 
